@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Nhat Truyen",
+    "author": "vBook",
+    "version": 2,
+    "source": "http://nhattruyengo.com/",
+    "regexp": "(www.)?(nhattruyengo.com|nhattruyen.com|nettruyen.com)/truyen-tranh/[^/]+/?$",
+    "description": "Đọc truyện trên trang Nhat Truyen",
+    "local": "vi-VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "author": "vnncv",
+        "description": "Thích là nhích ^^!"
+    },
+    "data": [
+      {
+        "name": "Sáng Tác Việt",
+        "author": "vnncv",
+        "path": "https://raw.githubusercontent.com/vn-ncvinh/vbook-ext/main/sangtacviet/plugin.zip",
+        "version": 5,
+        "source": "http://sangtacviet.com",
+        "icon": "https://raw.githubusercontent.com/vn-ncvinh/vbook-ext/main/sangtacviet/icon.png",
+        "description": "Đọc truyện trên trang Sangtacviet.com"
+      },
+      {
+        "name": "Nhattruyen",
+        "author": "vnncv",
+        "path": "https://raw.githubusercontent.com/vn-ncvinh/vbook-ext/main/nhattruyen/plugin.zip",
+        "version": 1.0,
+        "source": "http://www.nhattruyenvip.com/",
+        "icon": "https://raw.githubusercontent.com/vn-ncvinh/vbook-ext/main/nhattruyen/icon.png",
+        "description": "Đọc truyện trên trang nhattruyenvip.com"
+      }
+    ]
+}
